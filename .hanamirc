@@ -1,0 +1,3 @@
+project=improvement
+test=rspec
+template=erb
